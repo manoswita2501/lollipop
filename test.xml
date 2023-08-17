@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<parent>
+<!DOCTYPE Parent SYSTEM "test.dtd">
+<Parent>
     <Child>
         <Name>Kenneth</Name>
         <LastName>Doe</LastName>
@@ -8,4 +9,4 @@
         <Name>Manoswita</Name>
         <LastName>Doe</LastName>
     </Child>
-</parent>
+</Parent>
