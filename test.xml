@@ -1,1 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<parent>
+    <Child>
+        <Name>John</Name>
+        <LastName>Doe</LastName>
+    </Child>
+    <Child>
+        <Name>Jane</Name>
+        <LastName>Doe</LastName>
+    </Child>
+</parent>
